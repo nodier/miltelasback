@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-Application<miltelas-api>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"mainClass": "com.softlond.base.Application",
+			"projectName": "miltelas-api",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		}
+	]
+}
