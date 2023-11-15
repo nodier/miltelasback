@@ -49,7 +49,7 @@ public final class ApiConstant {
 	public static final String MODULO_CONTROLAR_API_GUARDAR_POSICION = "guardar-posicion";
 
 	/**
-	 * PLAN PATHS
+	 * PLAN PATHS ,
 	 */
 	public static final String PLAN_CONTROLADOR_API = "api/plan";
 	public static final String PLAN_CONTROLADOR_API_CREAR = "crear";
